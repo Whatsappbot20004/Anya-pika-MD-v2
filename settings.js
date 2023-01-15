@@ -7,13 +7,13 @@ global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or
 
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
-global.botname = "Queen Anya" 
+global.botname = "×͜× Basco ✘ bot™ ✓" 
 global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
 global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
-global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
-global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
+global.packname = "×͜× Basco ✘ bot™ ✓" // sticker watermark packname //
+global.author = "×͜× Basco ✘ bot™ ✓" // sticker watermark author //
 actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
-global.headerText = "Anya by Pika" // text for header of menu //        
+global.headerText = "Anya by basco" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
              global.ownernumber = ['918811074852']   // Owner number //
@@ -26,7 +26,7 @@ global.headerText = "Anya by Pika" // text for header of menu //
              global.ownertag = '918811074852'  // Tag number //
              global.linkz = "https://wa.me/+918811074852"  // Theme url which will be displayed on whatsapp //
              global.premium = ['918811074852']  // premium numbers //             
-             global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark //
+             global.waterMark = "×͜× Basco ✘ bot™ ✓" // Your own watermark //
 
 global.prefa = ['','-']
 
